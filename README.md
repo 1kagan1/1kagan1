@@ -1,9 +1,9 @@
-<img align="center" src="[https://i.makeagif.com/media/8-20-2017/MffOw8.gif](https://64.media.tumblr.com/6f5b26a59c1651737e6df675b5a4c7a9/tumblr_mvf876gg0H1rev2tgo1_500.gif)" alt="1kagan1" />
+<img align="center" src="[https://64.media.tumblr.com/6f5b26a59c1651737e6df675b5a4c7a9/tumblr_mvf876gg0H1rev2tgo1_500.gif" alt="1kagan1" />
 
 <h1 align="center">Hi 👋, I'm Kağan</h1>
 <h3 align="center">A passionate Backend developer from Turkiye.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=1kagan1&label=Profile%20views&color=0e75b6&style=flat](https://64.media.tumblr.com/6f5b26a59c1651737e6df675b5a4c7a9/tumblr_mvf876gg0H1rev2tgo1_500.gif)" alt="1kagan1" /> </p>
+<p align="left"> <img src="https://64.media.tumblr.com/6f5b26a59c1651737e6df675b5a4c7a9/tumblr_mvf876gg0H1rev2tgo1_500.gif" alt="1kagan1" /> </p>
 
 - 👨‍💻 All of my projects are available at [kagansofoglu.com](kagansofoglu.com)
 
