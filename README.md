@@ -1,3 +1,5 @@
+<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=1kagan1&](https://yunti.files.wordpress.com/2018/02/ataturk_bayrak_06_tam35-blogspot-com.gif)" alt="1kagan1" />
+
 <h1 align="center">Hi 👋, I'm Kağan</h1>
 <h3 align="center">A passionate Backend developer from Turkiye.</h3>
 
