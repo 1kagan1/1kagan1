@@ -1,6 +1,4 @@
-<p align="left"> <img src="https://64.media.tumblr.com/6f5b26a59c1651737e6df675b5a4c7a9/tumblr_mvf876gg0H1rev2tgo1_500.gif" alt="1kagan1" /> </p>
-
-<h1 align="center">Hi 👋, I'm Kağan</h1>
+<h1 align="center">Hi 👋, Kağan</h1>
 <h3 align="center">A passionate Backend developer from Turkiye.</h3>
 
 
