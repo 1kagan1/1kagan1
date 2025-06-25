@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Kağan</h1>
-<h3 align="center">A passionate Backend developer from Turkiye.</h3>
+<h3 align="center">developer.</h3>
 
 
 - 👨‍💻 All of my projects are available at [kagansofoglu.com](kagansofoglu.com)
