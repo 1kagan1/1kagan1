@@ -1,10 +1,13 @@
-<!-- Modern, minimalist ve klas bir GitHub profil README şablonu -->
+
+<!-- Modern, dinamik ve widget destekli GitHub profil README şablonu -->
+
 
 
 <div align="center">
   <img src="https://github.com/1kagan1.png" width="120" style="border-radius:50%; box-shadow:0 2px 16px #222;" alt="Kagan Avatar" />
   
-  <h1 style="font-weight:700; font-size:2.2rem; color:#f97316; margin:0.5em 0 0.2em 0;">Kagan Sofoglu</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Kagan!;Full+Stack+Developer;Açık+Kaynak+Tutkunu;Yenilikçi+Çözümler+%26+Modern+Kod" alt="Typing SVG" />
+
   <p style="font-size:1.1rem; color:#bbb; margin:0;">Full Stack Developer & Open Source Enthusiast</p>
   <p style="font-size:1rem; color:#888; margin:0.2em 0 1em 0;">Yenilikçi çözümler, modern teknolojiler, sade kod.</p>
 
@@ -22,9 +25,12 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
     </a>
   </div>
+
+  <img src="https://komarev.com/ghpvc/?username=1kagan1&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="Ziyaretçi Sayısı"/>
 </div>
 
 ---
+
 
 
 ### Hakkımda
@@ -35,15 +41,22 @@
 - 💡 Açık kaynak projelere katkı sağlarım
 - 📫 Bana ulaşmak için: mail@ornek.com
 
+<br/>
+
+<img src="https://github-contribution-widget.vercel.app/api?username=1kagan1&theme=github-dark&animation=blink" alt="GitHub Contribution Graph" width="100%"/>
+
 
 ---
+
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1kagan1&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&icon_color=f97316" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kagan1&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150" />
   <br/>
-  <sub>GitHub istatistiklerim ve en çok kullandığım diller.</sub>
+  <img src="https://streak-stats.demolab.com?user=1kagan1&theme=github-dark&hide_border=true" height="150" alt="Streak Stats" />
+  <br/>
+  <sub>GitHub istatistiklerim, katkı serim ve en çok kullandığım diller.</sub>
 </div>
 
 ---
