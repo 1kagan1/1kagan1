@@ -43,7 +43,8 @@
 
 <br/>
 
-<img src="https://github-contribution-widget.vercel.app/api?username=1kagan1&theme=github-dark&animation=blink" alt="GitHub Contribution Graph" width="100%"/>
+
+<!-- GitHub'ın kendi katkı grafiği otomatik olarak profilinizde görünür. -->
 
 
 ---
@@ -54,9 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=1kagan1&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&icon_color=f97316" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kagan1&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=1kagan1&theme=github-dark&hide_border=true" height="150" alt="Streak Stats" />
-  <br/>
-  <sub>GitHub istatistiklerim, katkı serim ve en çok kullandığım diller.</sub>
+  <sub>GitHub istatistiklerim ve en çok kullandığım diller.</sub>
 </div>
 
 ---
