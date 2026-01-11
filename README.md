@@ -46,15 +46,28 @@
 
 ---
 
+
 <div align="center">
   <b>Öne Çıkan Projeler</b>
   <br/>
-  <a href="https://github.com/1kagan1/mc-web-script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1kagan1&repo=mc-web-script&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/1kagan1/baska-proje">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1kagan1&repo=baska-proje&theme=github_dark&hide_border=true" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" width="250">
+        <a href="https://github.com/1kagan1/mc-web-script">
+          <b>mc-web-script</b>
+        </a>
+        <br/>
+        <sub>Modern Minecraft web paneli ve API altyapısı.</sub>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/1kagan1/baska-proje">
+          <b>baska-proje</b>
+        </a>
+        <br/>
+        <sub>Diğer öne çıkan projenizin kısa açıklaması.</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
