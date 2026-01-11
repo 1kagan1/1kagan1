@@ -26,8 +26,8 @@
 
 ---
 
-<details>
-<summary><b>Hakkımda</b></summary>
+
+### Hakkımda
 
 - 👨‍💻 Full Stack Developer
 - 🌱 Modern teknolojileri takip ederim
@@ -35,13 +35,15 @@
 - 💡 Açık kaynak projelere katkı sağlarım
 - 📫 Bana ulaşmak için: mail@ornek.com
 
-</details>
 
 ---
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1kagan1&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&icon_color=f97316" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kagan1&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150" />
+  <br/>
+  <sub>GitHub istatistiklerim ve en çok kullandığım diller.</sub>
 </div>
 
 ---
