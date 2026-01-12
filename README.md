@@ -2,7 +2,7 @@
   
 # 👨‍💻 Kağan Sofoğlu
 
-### Backend Developer | Web Enthusiast
+### Backend Developer | Web Developer
 
 [![Email](https://img.shields.io/badge/Email-kagansofoglu%40icloud.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kagansofoglu@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KULLANICI_ADINIZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICI_ADINIZ)
@@ -16,7 +16,7 @@
 ```typescript
 const kagan = {
     age: 18,
-    location: "Turkey 🇹🇷",
+    location: "Turkiye 🇹🇷",
     currentFocus: "Backend Development",
     expertise: ["Web Development", "API Design", "Database Management"],
     learning: ["Node.js", "Express", "RESTful APIs", "Database Architecture"],
@@ -25,11 +25,10 @@ const kagan = {
 };
 ```
 
-> 💡 **Tutkum:** Backend teknolojileri ve ölçeklenebilir sistemler geliştirmek
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Yazılım 
 
 ### Backend & Server
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,28 +56,6 @@ const kagan = {
 
 ---
 
-## 📊 GitHub Metrikleri
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/KULLANICI_ADINIZ)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/KULLANICI_ADINIZ)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/KULLANICI_ADINIZ)
-
-</div>
-
----
-
-## 🚀 Öne Çıkan Projeler
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADINIZ&repo=PROJE_ADI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/KULLANICI_ADINIZ/PROJE_ADI)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADINIZ&repo=PROJE_ADI_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/KULLANICI_ADINIZ/PROJE_ADI_2)
-
 </div>
 
 ---
@@ -97,16 +74,6 @@ graph LR
 
 ---
 
-## 🎓 Öğrenme Yolculuğum
-
-- ✅ Web Development Fundamentals
-- ✅ JavaScript & ES6+
-- 🔄 Backend Architecture & Design Patterns
-- 🔄 Database Optimization
-- 📋 Microservices Architecture
-- 📋 DevOps & Cloud Services
-
----
 
 ## 📫 İletişim
 
@@ -114,11 +81,6 @@ graph LR
 
 **📧 Email:** [kagansofoglu@icloud.com](mailto:kagansofoglu@icloud.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PROFILINIZ)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KULLANICIADI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SITENIZ.com)
-
-*Eğer sosyal medya hesaplarınız yoksa yukarıdaki satırları silebilirsiniz*
 
 </div>
 
@@ -128,12 +90,10 @@ graph LR
 
 ### 💭 Favori Söz
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Türk, öğün, çalış, güven!"* – Atatürk
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&color=58A6FF&style=for-the-badge)
-
-**⭐ Projelerimi beğendiyseniz yıldızlamayı unutmayın!**
+![Profile Views](https://komarev.com/ghpvc/?username=1kagan1&color=58A6FF&style=for-the-badge)
 
 </div>
