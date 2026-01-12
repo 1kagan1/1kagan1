@@ -32,34 +32,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=radical)
-
-## 🏆 Öne Çıkan Projeler
-
-### [Proje Adı 1](https://github.com/kullaniciadi/proje1)
-Proje hakkında kısa açıklama. Bu projede hangi teknolojileri kullandınız ve ne problemi çözdü?
-
-### [Proje Adı 2](https://github.com/kullaniciadi/proje2)
-İkinci projeniz hakkında kısa açıklama.
-
-### [Proje Adı 3](https://github.com/kullaniciadi/proje3)
-Üçüncü projeniz hakkında kısa açıklama.
-
-## 📫 Benimle İletişime Geçin
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/profiliniz)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kullaniciadi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kagansofoglu@icloud.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourwebsite.com)
-
 ---
 
 ⭐️ [Kağan Sofoğlu](https://github.com/KULLANICI_ADINIZ) tarafından oluşturuldu
