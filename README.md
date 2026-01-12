@@ -5,7 +5,8 @@
 ### Backend Developer | Web Developer
 
 [![Email](https://img.shields.io/badge/Email-kagansofoglu%40icloud.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kagansofoglu@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-KULLANICI_ADINIZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICI_ADINIZ)
+[![Website](https://img.shields.io/badge/Website-kagansofoglu.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kagansofoglu.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-1kagan1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1kagan1)
 
 </div>
 
@@ -21,10 +22,10 @@ const kagan = {
     expertise: ["Web Development", "API Design", "Database Management"],
     learning: ["Node.js", "Express", "RESTful APIs", "Database Architecture"],
     interests: ["Clean Code", "Software Architecture", "Problem Solving"],
+    website: "kagansofoglu.tech",
     contact: "kagansofoglu@icloud.com"
 };
 ```
-
 
 ---
 
@@ -56,10 +57,6 @@ const kagan = {
 
 ---
 
-</div>
-
----
-
 ## 💼 Çalışma Alanlarım
 
 ```mermaid
@@ -74,13 +71,13 @@ graph LR
 
 ---
 
-
 ## 📫 İletişim
 
 <div align="center">
 
 **📧 Email:** [kagansofoglu@icloud.com](mailto:kagansofoglu@icloud.com)
 
+**🌐 Website:** [kagansofoglu.tech](https://kagansofoglu.tech)
 
 </div>
 
